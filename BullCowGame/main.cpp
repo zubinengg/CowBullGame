@@ -7,8 +7,6 @@
 using Ftext = std::string;
 using int32 = int;
 
-
-//using namespace std;
 int32 double_num()
 {
 	return 0;
@@ -20,12 +18,10 @@ void PlayGame();
 Ftext GetValidGuess();
 bool AskToPlayAgain();
 
-FBullCowGame BCGame;
 // Instantiate a new game
-// 
-//
-//
-//
+FBullCowGame BCGame;
+
+
 
 int main()
 {

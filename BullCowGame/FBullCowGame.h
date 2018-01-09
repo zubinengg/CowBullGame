@@ -2,7 +2,6 @@
 #include <string>
 using FString = std::string;
 using int32 = int;
-//#define TMap std::map;
 #define TMap std::map
 
 struct FBullCowCount
